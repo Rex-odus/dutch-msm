@@ -1,3 +1,16 @@
+# Deze lijst is bedoeld als propaganda-filter voor Nederland en Belgie.
+# De maker van deze lijst claimt niet dat alle propagada verdwijnt maar het is een begin.
+# De maker zal deze lijst de komende tijd updaten. Tips zijn welkom.
+#
+# Voeg onderstaande lijst toe aan pi-hole adlist of host-file:
+#
+# https://raw.githubusercontent.com/Rex-odus/dutch-msm/main/msm-blocklist
+#
+# Voor de laatste update, check: 
+#
+# https://github.com/Rex-odus/dutch-msm/blob/main/msm-blocklist
+
+
 0.0.0.0 nos.nl
 0.0.0.0 rtl.nl
 0.0.0.0 dpgmediagroup.com
@@ -6,6 +19,7 @@
 0.0.0.0 dpgmedia.com
 0.0.0.0 dpgmedia.nl
 0.0.0.0 dpgmedia.be
+0.0.0.0 msn.nl
 0.0.0.0 kieskeurig.nl
 0.0.0.0 tvgids.nl
 0.0.0.0 autoweek.nl
@@ -33,3 +47,8 @@
 0.0.0.0 margriet.nl
 0.0.0.0 independer.nl
 0.0.0.0 qmusic.be
+0.0.0.0 radiocontact.be
+0.0.0.0 storymagazine.be
+0.0.0.0 hln.be
+0.0.0.0 primo.be
+0.0.0.0 tvfamilie.be
